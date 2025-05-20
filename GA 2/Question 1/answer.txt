@@ -1,0 +1,100 @@
+# Markdown Syntax Showcase
+
+Welcome to this comprehensive **Markdown** example! This document demonstrates the use of various formatting styles and elements.
+
+---
+
+## ✨ Features Demonstrated
+
+- **Top-Level Heading**
+- *Italic Text*
+- ~~Strikethrough~~
+- `Inline Code`
+- Code Block
+- Bulleted List
+- Numbered List
+- Task List
+- Table
+- [Hyperlink](https://www.markdownguide.org/)
+- Image
+- > Blockquote
+- Horizontal Rule
+- <!-- This is an HTML comment -->
+
+---
+
+## 📚 Text Formatting
+
+**Bold Text** is used for emphasis.  
+*Italic Text* adds style.  
+~~Strikethrough~~ indicates removed or outdated information.  
+Use `inline code` for quick code references.
+
+---
+
+## 💻 Code Block
+```java
+```python
+def greet(name):
+    return f"Hello, {name}!"
+````
+
+---
+
+## 🔘 Lists
+
+### Bulleted List
+
+* Markdown
+* HTML
+* CSS
+
+### Numbered List
+
+1. First
+2. Second
+3. Third
+
+---
+
+## ✅ Task List
+
+* [x] Done
+* [ ] Todo
+
+---
+
+## 📊 Table Example
+
+| Column A | Column B |
+| -------- | -------- |
+| Row 1    | Data A1  |
+| Row 2    | Data B1  |
+
+---
+
+## 🌐 Link Example
+
+Visit the [Markdown Guide](https://www.markdownguide.org/) for more.
+
+---
+
+## 🖼️ Image Example
+
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+---
+
+## 💬 Blockquote
+
+> Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
+
+---
+
+<!-- End of Markdown Example -->
+
+```
+
+Would you like this exported to a `.md` file?
+```
+
