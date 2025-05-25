@@ -1,4 +1,4 @@
-# TDS-All-Assignments
+# TDS Assignments
 
 ## Instructions for **TDS Assignment Completion** 🎓
 
