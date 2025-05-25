@@ -22,5 +22,4 @@ Here, you'll find solutions and step-by-step guides to solve all the GA 2.
 Question 1:
 Simply copy paste the answer from readme file.
 
-Question 2:
 
