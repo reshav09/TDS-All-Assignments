@@ -2,7 +2,7 @@
 
 ### `Hit and Try Method`
 
-````markdown
+
 # Yes or No Question Service Documentation
 
 This service answers simple "Yes" or "No" questions. Based on the phrasing and context of the question, the service will return an appropriate answer.
